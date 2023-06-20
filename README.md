@@ -17,7 +17,7 @@ This repo contains code for a summarization task performed using the Bart LLM.
 
 The goal of this project was to fine-tune the model on scientific paper abstracts and have it generate paper titles. 
 
-This code makes use of the `transformers` Python library and tutorials from the awesome [Hugging Face](https://huggingface.co/huggingface){:target="_blank"} community!
+This code makes use of the `transformers` Python library and tutorials from the awesome [Hugging Face](https://huggingface.co/huggingface) community!
 
 
 
